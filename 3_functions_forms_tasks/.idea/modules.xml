@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3_functions_forms_tasks.iml" filepath="$PROJECT_DIR$/.idea/3_functions_forms_tasks.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Back/dz/dz_form/.idea/dz_form.iml" filepath="$USER_HOME$/Desktop/Back/dz/dz_form/.idea/dz_form.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Front/home_task_5_js/.idea/home_task_5_js.iml" filepath="$USER_HOME$/Desktop/Front/home_task_5_js/.idea/home_task_5_js.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Front/home_task_4_js/.idea/ht_js4.iml" filepath="$USER_HOME$/Desktop/Front/home_task_4_js/.idea/ht_js4.iml" />
+    </modules>
+  </component>
+</project>
